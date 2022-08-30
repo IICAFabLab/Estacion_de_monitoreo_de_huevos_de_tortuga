@@ -10,4 +10,4 @@ Esta estación permite monitorear la temperatura y humedad de la arena en la que
 
 ## Diagrama eléctrico
 
-<img src="https://user-images.githubusercontent.com/111079577/187562361-19f26c43-9630-4192-8eb9-e68f58296da0.svg"\>
+<img src="https://user-images.githubusercontent.com/111079577/187562361-19f26c43-9630-4192-8eb9-e68f58296da0.svg">
